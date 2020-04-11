@@ -8,4 +8,5 @@ print("You thought I was gonna perform a magic trick? LMFAO!!")
 print("Here you go...")
 print("Just kidding man! XD")
 print(sum+"Yeah, that's it man, just the sum! -_-  ")
+print("Arigato Gozaimasu")
 
